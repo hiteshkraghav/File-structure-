@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.border {
+  border: 3px solid green;
+  cursor: pointer;
+height:200px;
+margin: auto;
+}
+.onHover:hover{
+  background-color:blue;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
